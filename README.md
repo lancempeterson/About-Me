@@ -1,16 +1,9 @@
 # About Me
-Lance M. Peterson
+My name is **Lance M. Peterson**. I graduated from **the University of Wisconsin-Platteville** with a **B.S. Software Engineering** degree. I currently work as a **Software Engineer** near Madison, Wisconsin. I am very mobile and I am willing to relocate anywhere in the world where I think there is an opportunity for career growth. I wish to work and collaborate with people from all backgrounds. No goal is too big!
 
-Software Engineer
+I am the founder and developer of AppFrost. Since 2016 I have been publishing numerous Android applications and games on the Google Play Store. I have also worked on several Web Dev projects written in HTML, CSS, and JavaScript such a 2D physics engine software module that handles player movement, gravity, and object collision detection.
 
-B.S. Software Engineering
-
-Interests:
-* Competitive Programming
-
-* Android Development
-
-* Language Learning
+For business inquiries, freelance work, or employer interest, please feel free to contact me at lancepeterson50@gmail.com.
 
 ---
 __Project Portfolio__
@@ -37,3 +30,9 @@ A Japanese kanji lookup and [WaniKani](https://www.wanikani.com/) statistics app
 Japanese kanji lookup and WaniKani statistics/progress application! WaniKani users can use this app to track their progress as they continue learning new kanji and leveling up in WaniKani. Includes useful trackers for determining kanji completion for JLPT and other sources of Japanese media. The app also serves as a way for the user to view all their completed kanji in an easily searchable list format.
 
 [Download for free](https://play.google.com/store/apps/details?id=com.appfrost.kanjikrab)
+
+---
+__Other Interests:__
+* Software Development
+* Competitive Programming
+* Language Learning
