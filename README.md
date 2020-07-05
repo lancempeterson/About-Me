@@ -8,7 +8,7 @@ For business inquiries, freelance work, or employer interest, please feel free t
 ---
 __Project Portfolio__
 
-Local Devs
+**Local Devs**
 
 An app that uses Retrofit and the GitHub API to allow users to search for programmers and developers based on location, programming language, and more.
 
@@ -20,7 +20,7 @@ Finding nearby developers and programmers has never been more easy to do! "Local
 
 [Download for free](https://play.google.com/store/apps/details?id=com.appfrost.localdevs)
 
-Kanji Krab
+**Kanji Krab**
 
 A Japanese kanji lookup and [WaniKani](https://www.wanikani.com/) statistics application. Built in Kotlin and uses the WaniKani Api to get user stats and learnt kanji.
 
@@ -30,6 +30,18 @@ A Japanese kanji lookup and [WaniKani](https://www.wanikani.com/) statistics app
 Japanese kanji lookup and WaniKani statistics/progress application! WaniKani users can use this app to track their progress as they continue learning new kanji and leveling up in WaniKani. Includes useful trackers for determining kanji completion for JLPT and other sources of Japanese media. The app also serves as a way for the user to view all their completed kanji in an easily searchable list format.
 
 [Download for free](https://play.google.com/store/apps/details?id=com.appfrost.kanjikrab)
+
+**Wizard Cards**
+
+A card game where the player collects cards to be used in competitive matches against various CPU opponents with varying difficulties and strategies.
+
+
+| ![Alt text](img/wc_ss6.png?raw=true "Kanji Krab") | ![Alt text](img/wc_ss7.png?raw=true "Kanji List") | ![Alt text](img/wc_ss3.png?raw=true "Search Kanji") | ![Alt text](img/wc_ss5.png?raw=true "User Progress") |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------|
+
+This unique ASCII-art, idle game challenges you to collect and build your Wiz Cards deck. There are 100 Wiz Cards to be acquired! Take on players in various cities on the game map and earn your spot as the number 1 ranked player.
+
+[Download for 99 C](https://play.google.com/store/apps/details?id=com.appfrost.creaturesummon)
 
 ---
 __Other Interests:__
