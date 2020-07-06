@@ -22,7 +22,7 @@ Finding nearby developers and programmers has never been more easy to do! "Local
 
 **Kanji Krab**
 
-A Japanese kanji lookup and [WaniKani](https://www.wanikani.com/) statistics application. Built in Kotlin and uses the WaniKani Api to get user stats and learnt kanji.
+A Japanese kanji lookup and [WaniKani](https://www.wanikani.com/) statistics application. Built in Kotlin and uses the WaniKani API to get user stats and learnt kanji.
 
 | ![Alt text](img/kk_ss1.png?raw=true "Kanji Krab") | ![Alt text](img/kk_ss4.png?raw=true "Kanji List") | ![Alt text](img/kk_ss5.png?raw=true "Search Kanji") | ![Alt text](img/kk_ss3.png?raw=true "User Progress") |
 |-------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -41,6 +41,6 @@ A card game where the player collects cards to be used in competitive matches ag
 
 This unique ASCII-art, idle game challenges you to collect and build your Wiz Cards deck. There are 100 Wiz Cards to be acquired! Take on players in various cities on the game map and earn your spot as the number 1 ranked player.
 
-[Download for 99 C](https://play.google.com/store/apps/details?id=com.appfrost.creaturesummon)
+[Download for 99 ¢](https://play.google.com/store/apps/details?id=com.appfrost.creaturesummon)
 
 ---
