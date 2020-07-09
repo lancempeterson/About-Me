@@ -42,3 +42,5 @@ This unique ASCII-art, idle game challenges you to collect and build your Wiz Ca
 [Download for 99 ¢](https://play.google.com/store/apps/details?id=com.appfrost.creaturesummon)
 
 ---
+
+More updates coming soon!..
