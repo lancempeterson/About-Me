@@ -25,7 +25,7 @@ A Japanese kanji lookup and [WaniKani](https://www.wanikani.com/) statistics app
 | ![Alt text](img/kk_ss1.png?raw=true "Kanji Krab") | ![Alt text](img/kk_ss4.png?raw=true "Kanji List") | ![Alt text](img/kk_ss5.png?raw=true "Search Kanji") | ![Alt text](img/kk_ss3.png?raw=true "User Progress") |
 |-------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------|
 
-Japanese kanji lookup and WaniKani statistics/progress application! WaniKani users can use this app to track their progress as they continue learning new kanji and leveling up in WaniKani. Includes useful trackers for determining kanji completion for JLPT and other sources of Japanese media. The app also serves as a way for the user to view all their completed kanji in an easily searchable list format.
+Japanese kanji lookup and WaniKani statistics/progress application! WaniKani users can use this app to track their progress as they continue to learn new kanji and level up in WaniKani. Includes useful trackers for determining kanji completion for JLPT and other sources of Japanese media. The app also serves as a way for the user to view all their completed kanji in an easily searchable list format.
 
 [Download for free](https://play.google.com/store/apps/details?id=com.appfrost.kanjikrab)
 
