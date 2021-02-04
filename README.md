@@ -10,7 +10,7 @@ __Project Portfolio__
 
 A Japanese kanji lookup and [WaniKani](https://www.wanikani.com/) statistics application. Built in Kotlin and uses the WaniKani API to get user stats and learnt kanji.
 
-| ![Kanji Krab](img/kk_ss1.png?raw=true "Kanji Krab") | ![Kanji Krab](img/kk_ss4.png?raw=true "Kanji List") | ![Kanji Krab](img/kk_ss5.png?raw=true "Search Kanji") | ![Kanji Krab](img/kk_ss3.png?raw=true "User Progress") |
+| ![Kanji Krab](img/kkSS2.png?raw=true "Kanji Krab") | ![Kanji Krab](img/kkSS4.png?raw=true "Kanji List") | ![Kanji Krab](img/kkSS5.png?raw=true "Search Kanji") | ![Kanji Krab](img/kkSS3.png?raw=true "User Progress") |
 |-------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------|
 
 Japanese kanji lookup and WaniKani statistics/progress application! WaniKani users can use this app to track their progress as they continue to learn new kanji and level up in WaniKani. Includes useful trackers for determining kanji completion for JLPT and other sources of Japanese media. The app also serves as a way for the user to view all their completed kanji in an easily searchable list format.
